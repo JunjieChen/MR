@@ -1,10 +1,11 @@
-In this package, there are five folders.
+In this package, there are six folders.
 
 PSO.apache: results of the Apache subject
 PSO.jdk: results of the JDK subject
 PSO.matlab: results of the MATLAB subject
 PSO.gsl: results of the GSL subject
 PSO.gcc: results of the GCC subject
+PSO.HM: results of the HM subject
 
 In each folder, there are four subfolders.
 1MR: results of 1-MR
